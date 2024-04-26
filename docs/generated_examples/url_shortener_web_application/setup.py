@@ -7,7 +7,7 @@ setup(
     include_package_data=True,
     install_requires=[
         "Flask==2.0.2",
-        "requests==2.26.0",
+        "requests==2.31.0",
         "pytest==6.2.5",
         "Flask-Session==0.4.0",
     ],
